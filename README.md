@@ -1,6 +1,7 @@
 # Test
 
 Minimal ASP.NET Core 8 web project that responds with "Hello World!" at the root path.
+Built with the .NET 8 SDK.
 
 ## Running
 
